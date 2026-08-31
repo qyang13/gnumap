@@ -1,6 +1,5 @@
 ############################################
 # GNUMAPS
-# developed in jlab.bu.edu (cjhong@bu.edu)
 ############################################
 
 1. Objectives
@@ -94,7 +93,3 @@ Usage: gnumaps.pl [options]
 5. Notes
 In order to align reads to human genome size, we strongly recommend that a user trys GNUMAPS on the desktop computer with 30GB RAM or higher.
 
-6. Reference
-
-8. Contact
-cjhong@bu.edu
